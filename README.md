@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building projects in Data Science, Web Development, and Computer Vision while strengthening my problem-solving skills.<br><br>🕺🕺 I’m looking to collaborate on<br>Open-source projects, AI/ML applications, and innovative web platforms where I can contribute and learn.<br><br>🤝 I’m looking for help with<br>Exploring advanced AI techniques and best practices in scaling real-world Machine Learning models.<br><br>🌱 I’m currently learning<br>Computer Vision (image processing, object detection, deep learning) and hands-on Machine Learning tools such as TensorFlow, Keras, and Scikit-learn.<br><br>💬 Ask me about<br>Competitive programming, AI & Data Science fundamentals, and web development.<br><br>⚡ Fun fact<br>I believe debugging is like detective work — frustrating at first, but super satisfying when solved. 🕵️‍♂️
+🔭 I’m currently working on Computer Vision. <br>🕺 I’m looking to collaborate on Open-source projects, AI/ML applications.<br>🤝 I’m looking for help with best practices in scaling real-world Machine Learning models.<br>🌱 I’m currently learning Computer Vision (image processing, object detection, deep learning) and hands-on Machine Learning tools such as TensorFlow, Keras, and Scikit-learn.<br>💬 Ask me about Competitive programming, AI & Data Science fundamentals. <br>⚡ Fun fact I believe debugging is like detective work — frustrating at first, but super satisfying when solved. 🕵️‍♂️
 
 
 ## 🌐 Socials:
@@ -11,6 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=Sujit190&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sujit190&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujit190&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sujit190&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sujit190&icon=0&color=0)](https://visitcount.itsvg.in)
